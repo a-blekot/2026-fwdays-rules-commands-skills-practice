@@ -1,0 +1,17 @@
+{
+  "name": "agentic-ide-presentation",
+  "version": "1.0.0",
+  "description": "Презентація про Правила, команди та навички для Agentic IDE",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.11.3",
+    "@slidev/theme-default": "^0.25.0"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.0"
+  }
+}
