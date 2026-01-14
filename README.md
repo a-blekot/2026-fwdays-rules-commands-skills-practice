@@ -1,1 +1,4 @@
-# 2026-fwdays-rules-commands-skills-practice
+# Задача
+
+Зроби презентацію за допомогою https://sli.dev/ 
+На тему "Правила, команди та навички для Agentic IDE"
